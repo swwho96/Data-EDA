@@ -8,6 +8,8 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
+kaggle_setup.ipynb
+
 # IPython
 profile_default/
 ipython_config.py
